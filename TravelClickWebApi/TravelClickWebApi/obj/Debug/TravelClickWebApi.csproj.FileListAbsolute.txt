@@ -1,0 +1,333 @@
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\ApplicationInsights.config
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\csc.exe
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\csc.exe.config
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\csc.rsp
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\csi.exe
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\csi.rsp
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\System.AppContext.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\vbc.exe
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\vbc.exe.config
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\vbc.rsp
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\TravelClickWebApi.dll.config
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\TravelClickWebApi.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\TravelClickWebApi.pdb
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Antlr3.Runtime.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.Web.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Newtonsoft.Json.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Net.Http.Formatting.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Helpers.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Http.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Http.WebHost.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Mvc.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Optimization.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Razor.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.WebPages.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\TravelClickBusinessEntities.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\TravelClickBusinessLayer.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\WebGrease.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\TravelClickRAL.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Dapper.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\TravelClickBusinessEntities.pdb
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\TravelClickBusinessLayer.pdb
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Newtonsoft.Json.xml
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Net.Http.Formatting.xml
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Helpers.xml
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Http.xml
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Http.WebHost.xml
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Mvc.xml
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Optimization.xml
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Razor.xml
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.WebPages.xml
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Antlr3.Runtime.pdb
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.Web.xml
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\TravelClickRAL.pdb
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Dapper.xml
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\obj\Debug\TravelClickWebApi.csprojResolveAssemblyReference.cache
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\obj\Debug\TravelClickWebApi.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickWebApi\obj\Debug\TravelClickWebApi.pdb
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\ApplicationInsights.config
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\csc.exe
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\csc.exe.config
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\csc.rsp
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\csi.exe
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\csi.rsp
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\System.AppContext.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\vbc.exe
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\vbc.exe.config
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\vbc.rsp
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\TravelClickWebApi.dll.config
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\TravelClickWebApi.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\TravelClickWebApi.pdb
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Antlr3.Runtime.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.Web.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Newtonsoft.Json.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Helpers.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Http.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Mvc.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Optimization.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Razor.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.WebPages.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\TravelClickBusinessEntities.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\TravelClickBusinessLayer.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\WebGrease.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\TravelClickRAL.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Dapper.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\TravelClickBusinessEntities.pdb
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\TravelClickBusinessLayer.pdb
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Newtonsoft.Json.xml
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Helpers.xml
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Http.xml
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Mvc.xml
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Optimization.xml
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Razor.xml
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.WebPages.xml
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Antlr3.Runtime.pdb
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.Web.xml
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\TravelClickRAL.pdb
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Dapper.xml
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\obj\Debug\TravelClickWebApi.csprojResolveAssemblyReference.cache
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\obj\Debug\TravelClickWebApi.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickWebApi\obj\Debug\TravelClickWebApi.pdb
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\ApplicationInsights.config
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\csc.exe
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\csc.exe.config
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\csc.rsp
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\csi.exe
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\csi.rsp
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\System.AppContext.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\vbc.exe
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\vbc.exe.config
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\vbc.rsp
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\TravelClickWebApi.dll.config
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\TravelClickWebApi.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\TravelClickWebApi.pdb
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Antlr3.Runtime.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.Web.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Newtonsoft.Json.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Net.Http.Formatting.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Helpers.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Http.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Http.WebHost.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Mvc.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Optimization.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Razor.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.WebPages.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\TravelClickBusinessEntities.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\TravelClickBusinessLayer.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\WebGrease.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\TravelClickRAL.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Dapper.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\TravelClickBusinessEntities.pdb
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\TravelClickBusinessLayer.pdb
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Newtonsoft.Json.xml
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Net.Http.Formatting.xml
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Helpers.xml
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Http.xml
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Http.WebHost.xml
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Mvc.xml
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Optimization.xml
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Razor.xml
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.WebPages.xml
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Antlr3.Runtime.pdb
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.Web.xml
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\TravelClickRAL.pdb
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Dapper.xml
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\obj\Debug\TravelClickWebApi.csprojAssemblyReference.cache
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\obj\Debug\TravelClickWebApi.csproj.CoreCompileInputs.cache
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\obj\Debug\TravelClickWebApi.csproj.CopyComplete
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\obj\Debug\TravelClickWebApi.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\obj\Debug\TravelClickWebApi.pdb
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\Swashbuckle.Core.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickWebApi\bin\WebActivatorEx.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\ApplicationInsights.config
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\roslyn\csc.exe
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\roslyn\csc.exe.config
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\roslyn\csc.rsp
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\roslyn\csi.exe
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\roslyn\csi.rsp
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\roslyn\System.AppContext.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\roslyn\vbc.exe
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\roslyn\vbc.exe.config
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\roslyn\vbc.rsp
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\TravelClickWebApi.dll.config
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\TravelClickWebApi.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\TravelClickWebApi.pdb
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\Antlr3.Runtime.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.Web.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\Newtonsoft.Json.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\Swashbuckle.Core.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\System.Net.Http.Formatting.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Helpers.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Http.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Http.WebHost.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Mvc.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Optimization.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Razor.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\System.Web.WebPages.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\TravelClickBusinessEntities.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\TravelClickBusinessLayer.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\WebActivatorEx.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\WebGrease.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\TravelClickRAL.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\Dapper.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\TravelClickBusinessEntities.pdb
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\TravelClickBusinessLayer.pdb
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\Newtonsoft.Json.xml
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\System.Net.Http.Formatting.xml
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Helpers.xml
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Http.xml
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Http.WebHost.xml
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Mvc.xml
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Optimization.xml
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Razor.xml
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\System.Web.WebPages.xml
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\Antlr3.Runtime.pdb
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\Microsoft.AI.Web.xml
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\TravelClickRAL.pdb
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\Dapper.xml
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\obj\Debug\TravelClickWebApi.csprojResolveAssemblyReference.cache
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\obj\Debug\TravelClickWebApi.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\obj\Debug\TravelClickWebApi.pdb
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Cors.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Http.Cors.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickWebApi\bin\System.Web.Http.Cors.xml

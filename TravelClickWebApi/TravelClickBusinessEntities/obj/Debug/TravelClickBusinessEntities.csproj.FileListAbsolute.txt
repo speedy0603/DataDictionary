@@ -1,0 +1,19 @@
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickBusinessEntities\bin\Debug\TravelClickBusinessEntities.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickBusinessEntities\bin\Debug\TravelClickBusinessEntities.pdb
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickBusinessEntities\obj\Debug\TravelClickBusinessEntities.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickBusinessEntities\obj\Debug\TravelClickBusinessEntities.pdb
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickBusinessEntities\bin\Debug\TravelClickBusinessEntities.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickBusinessEntities\bin\Debug\TravelClickBusinessEntities.pdb
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickBusinessEntities\obj\Debug\TravelClickBusinessEntities.csprojResolveAssemblyReference.cache
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickBusinessEntities\obj\Debug\TravelClickBusinessEntities.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickBusinessEntities\obj\Debug\TravelClickBusinessEntities.pdb
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickBusinessEntities\bin\Debug\TravelClickBusinessEntities.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickBusinessEntities\bin\Debug\TravelClickBusinessEntities.pdb
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickBusinessEntities\obj\Debug\TravelClickBusinessEntities.csproj.CoreCompileInputs.cache
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickBusinessEntities\obj\Debug\TravelClickBusinessEntities.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickBusinessEntities\obj\Debug\TravelClickBusinessEntities.pdb
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickBusinessEntities\bin\Debug\TravelClickBusinessEntities.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickBusinessEntities\bin\Debug\TravelClickBusinessEntities.pdb
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickBusinessEntities\obj\Debug\TravelClickBusinessEntities.csprojResolveAssemblyReference.cache
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickBusinessEntities\obj\Debug\TravelClickBusinessEntities.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickBusinessEntities\obj\Debug\TravelClickBusinessEntities.pdb

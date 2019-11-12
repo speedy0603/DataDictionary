@@ -1,0 +1,46 @@
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickBusinessLayer\bin\Debug\TravelClickBusinessLayer.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickBusinessLayer\bin\Debug\TravelClickBusinessLayer.pdb
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickBusinessLayer\bin\Debug\TravelClickBusinessEntities.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickBusinessLayer\bin\Debug\TravelClickRAL.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickBusinessLayer\bin\Debug\Dapper.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickBusinessLayer\bin\Debug\TravelClickBusinessEntities.pdb
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickBusinessLayer\bin\Debug\TravelClickRAL.pdb
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickBusinessLayer\bin\Debug\Dapper.xml
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickBusinessLayer\obj\Debug\TravelClickBL.csprojResolveAssemblyReference.cache
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickBusinessLayer\obj\Debug\TravelClickBusinessLayer.dll
+C:\Workspace\TravelClick\TravelClickWebApi\TravelClickBusinessLayer\obj\Debug\TravelClickBusinessLayer.pdb
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickBusinessLayer\bin\Debug\TravelClickBusinessLayer.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickBusinessLayer\bin\Debug\TravelClickBusinessLayer.pdb
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickBusinessLayer\bin\Debug\TravelClickBusinessEntities.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickBusinessLayer\bin\Debug\TravelClickRAL.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickBusinessLayer\bin\Debug\Dapper.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickBusinessLayer\bin\Debug\TravelClickBusinessEntities.pdb
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickBusinessLayer\bin\Debug\TravelClickRAL.pdb
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickBusinessLayer\bin\Debug\Dapper.xml
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickBusinessLayer\obj\Debug\TravelClickBL.csprojResolveAssemblyReference.cache
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickBusinessLayer\obj\Debug\TravelClickBusinessLayer.dll
+C:\Users\M1034157\Documents\Visual Studio 2017\Projects\TravelClick\TravelClickWebApi\TravelClickBusinessLayer\obj\Debug\TravelClickBusinessLayer.pdb
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickBusinessLayer\bin\Debug\TravelClickBusinessLayer.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickBusinessLayer\bin\Debug\TravelClickBusinessLayer.pdb
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickBusinessLayer\bin\Debug\TravelClickBusinessEntities.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickBusinessLayer\bin\Debug\TravelClickRAL.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickBusinessLayer\bin\Debug\Dapper.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickBusinessLayer\bin\Debug\TravelClickBusinessEntities.pdb
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickBusinessLayer\bin\Debug\TravelClickRAL.pdb
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickBusinessLayer\bin\Debug\Dapper.xml
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickBusinessLayer\obj\Debug\TravelClickBL.csprojAssemblyReference.cache
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickBusinessLayer\obj\Debug\TravelClickBL.csproj.CoreCompileInputs.cache
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickBusinessLayer\obj\Debug\TravelClickBL.csproj.CopyComplete
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickBusinessLayer\obj\Debug\TravelClickBusinessLayer.dll
+C:\Abinesh\Data Dictionary\TravelClick\TravelClick\TravelClickWebApi\TravelClickBusinessLayer\obj\Debug\TravelClickBusinessLayer.pdb
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickBusinessLayer\bin\Debug\TravelClickBusinessLayer.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickBusinessLayer\bin\Debug\TravelClickBusinessLayer.pdb
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickBusinessLayer\bin\Debug\TravelClickBusinessEntities.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickBusinessLayer\bin\Debug\TravelClickRAL.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickBusinessLayer\bin\Debug\Dapper.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickBusinessLayer\bin\Debug\TravelClickBusinessEntities.pdb
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickBusinessLayer\bin\Debug\TravelClickRAL.pdb
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickBusinessLayer\bin\Debug\Dapper.xml
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickBusinessLayer\obj\Debug\TravelClickBL.csprojResolveAssemblyReference.cache
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickBusinessLayer\obj\Debug\TravelClickBusinessLayer.dll
+C:\Dharma\WebApi\TravelClickWebApi\TravelClickBusinessLayer\obj\Debug\TravelClickBusinessLayer.pdb
